@@ -2,7 +2,8 @@
 
 Submitted by: **Alvin Shen**
 
-**CodePathPrework** is an app that... [TODO]
+**CodePathPrework** is an app that has some basic information about me,
+and there is a button to change the background and text color.
 
 Time spent: **3** hours spent in total
 
